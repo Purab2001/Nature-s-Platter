@@ -1,0 +1,21 @@
+.sora {
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.button {
+  color: white;
+  background-color: rgb(2, 146, 2);
+}
+.button2 {
+    color: rgb(2, 146, 2);
+  border-color: rgb(2, 146, 2);
+}
+
+.button:hover {
+  background-color: green;
+}
+.button2:hover {
+    color: white;
+  background-color: green;
+}
